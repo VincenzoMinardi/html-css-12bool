@@ -4,7 +4,21 @@
     align-items: center;
     background-color: greenyellow;
     border: 1px solid black;
-   
     height: 50px;
-    
+}
+
+.big{
+    height: 85px;
+}
+
+.square{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+     background-color: blue;
+    color: white;
+   border: 1px solid black;
+    height: 50px;
+    margin-left: .2rem;
+     
 }
