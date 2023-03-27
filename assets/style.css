@@ -1,0 +1,10 @@
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: greenyellow;
+    border: 1px solid black;
+   
+    height: 50px;
+    
+}
