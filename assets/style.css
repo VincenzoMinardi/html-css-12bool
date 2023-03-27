@@ -10,7 +10,6 @@
 .big{
     height: 85px;
 }
-
 .square{
     display: flex;
     justify-content:center;
@@ -20,5 +19,8 @@
    border: 1px solid black;
     height: 50px;
     margin-left: .2rem;
-     
+}
+
+.table{
+    margin-top: 2rem;
 }
